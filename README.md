@@ -24,7 +24,7 @@ The model used in this project is a simple feedforward neural network with the f
 The results of the experiment show that the **ReLU** activation function performs slightly better than **Sigmoid** and **Tanh** in terms of accuracy. This is consistent with the widespread adoption of ReLU in modern neural networks due to its ability to mitigate the vanishing gradient problem.
 
 ## Visualizations
-![Accuracy Comparison](![output](https://github.com/user-attachments/assets/ddbd4643-3ebf-4fc6-ad93-e247cc747305))  
+![Accuracy Comparison](output.png)  
 The bar chart above shows the comparison of accuracy for each activation function. 
 
 ## Installation
